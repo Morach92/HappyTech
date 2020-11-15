@@ -47,7 +47,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(407, 72);
             this.textBox1.TabIndex = 1;
-            this.textBox1.Text = "Not enough Exprience";
+            this.textBox1.Text = "Not enough Exprience, now";
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // checkBox1
